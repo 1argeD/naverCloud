@@ -18,7 +18,7 @@ ex))88888
 
 cmd창에 접속 후 
 
-ssd ~p 포트번호 아이디@아이피
+ssd -p 포트번호 아이디@아이피
 
 로 서버에 접속 
 
@@ -31,5 +31,12 @@ cmd창에 비밀번호가 입력되어도 보이지 않아 붙여넣길 해야�
 naverCloud는 요금 계산이 가능하다. 서비스 추가시 할 시 요금계산을 해 볼 것
 
 
+mitlicensed = 상업적으로 사용해도 문제 없는 사이트 ex) https://komga.org/
+
+방화벽 포트 열어주기 - 컴퓨터 내에 acg 적용시키기 
+
+네이버 클라우드는 aws와 다르게 고용 ip가 없기에 구매를 해야한다(월 이용료 4000원)
+
+Dopefolio - 템플릿 사이트 https://github.com/rammcodes/Dopefolio
 
 
